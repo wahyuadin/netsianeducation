@@ -1,7 +1,1 @@
-# belajar
-# belajar
-# belajar
-# belajar
-# belajar
-# netsianeducation
-# netsianeducation
+NETSIAN EDUCATION
