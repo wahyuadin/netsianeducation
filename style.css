@@ -1,0 +1,42 @@
+.dada {
+	text-align:center;
+	width:auto;
+	background:#000DFF;
+	color:#FFFFFF;
+	font-size:18px;
+}
+
+.kelamin {
+	text-align:center;
+	font-size:25px;
+	padding:auto;
+	
+}
+
+.tabel {
+	width:100%;
+}
+
+.nama {
+	width:25%;
+}
+
+th {
+	background:#FF0004;
+	color:#FFFFFF;
+	width:30%;	
+}
+
+.background {
+	background-color:#FFFFFF;
+}
+
+td {
+	text-align:center;
+	font-size:18px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+
+.pading {
+	padding:20px;
+}
